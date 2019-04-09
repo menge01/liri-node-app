@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+
      
      
             Liri
     LIRI Bot for Week #10 Homework
 
 
-About
-In this assignment, I will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+ I  make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 Technologies Used
 Javascript
@@ -19,8 +18,6 @@ NPM FS used to read txt file
 
 The app test  look like this
 
-=======
-# liri-node-app
 
 
 ![concert](https://user-images.githubusercontent.com/39536292/55809573-27cefb00-5ab4-11e9-9d7f-79f8a14aefc4.GIF)
