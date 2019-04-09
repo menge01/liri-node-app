@@ -19,9 +19,6 @@ NPM FS used to read txt file
 The app test  look like this
 
 
-
-![concert](https://user-images.githubusercontent.com/39536292/55809573-27cefb00-5ab4-11e9-9d7f-79f8a14aefc4.GIF)
-
-![liri movie](https://user-images.githubusercontent.com/39536292/55809575-27cefb00-5ab4-11e9-8345-322cc0317783.GIF)
-![spotify](https://user-images.githubusercontent.com/39536292/55809576-27cefb00-5ab4-11e9-9a31-0fb68240df40.GIF)
-
+![concert](https://user-images.githubusercontent.com/39536292/55811934-007a2d00-5ab8-11e9-9fcd-9b132cd2705d.GIF)
+![liri movie](https://user-images.githubusercontent.com/39536292/55811937-01ab5a00-5ab8-11e9-9fbd-353fb6f0244d.GIF)
+![spotify](https://user-images.githubusercontent.com/39536292/55811938-01ab5a00-5ab8-11e9-9af3-3d51a354c50c.GIF)
