@@ -1,0 +1,751 @@
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+Artist: XXXTENTACION
+Song: Fuck Love (feat. Trippie Redd)
+Preview: null
+
+---------------------------------------------------
+
+Album: 17
+Artist: Beyoncé
+Song: Irreplaceable
+Preview: https://p.scdn.co/mp3-preview/1baab0673b4774c6e2c99befe43e0209d0d41980?cid=36f978b125124f6baf769bc0ab33f3dd
+
+---------------------------------------------------
+
+Album: B'Day Deluxe Edition
+Invalid Instruction
+Invalid Instruction
+**********SONG INFO*********
+0
+song name: Halo
+preview song: https://p.scdn.co/mp3-preview/3c97985f3736fab6d4abcd2067f346a9b30955fa?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I AM...SASHA FIERCE
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+1
+song name: Crazy In Love
+preview song: https://p.scdn.co/mp3-preview/ce8ace0ec425840416be78db07cf50dd331eed4f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Dangerously In Love
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+2
+song name: Perfect Duet (Ed Sheeran & Beyoncé)
+preview song: https://p.scdn.co/mp3-preview/65ee4bf5cfdc8f2cd9cc1742f9d4b2ba10c83b2f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Perfect Duet (Ed Sheeran & Beyoncé)
+artist(s): Ed Sheeran
+*****************************
+**********SONG INFO*********
+3
+song name: Love On Top
+preview song: https://p.scdn.co/mp3-preview/9a7675cc7f71c524af1397cf1675b61a8fbc74ed?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+4
+song name: Run the World (Girls)
+preview song: https://p.scdn.co/mp3-preview/c5e90d8d93467fc4aeda29c2cbefaa494081232a?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+5
+song name: Irreplaceable
+preview song: https://p.scdn.co/mp3-preview/b1cd9ecf3b5108363846f497897b5bcbec44343a?cid=36f978b125124f6baf769bc0ab33f3dd
+album: B'Day Deluxe Edition
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+6
+song name: 7/11
+preview song: https://p.scdn.co/mp3-preview/c17eaf47f9624029dadcd7672b7896c84923e28c?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+7
+song name: Drunk in Love
+preview song: https://p.scdn.co/mp3-preview/7052c45ae9298c38fdbd1b45bec7fc5f554fafa0?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+8
+song name: Mi Gente (feat. Beyoncé)
+preview song: null
+album: Mi Gente (feat. Beyoncé)
+artist(s): J Balvin
+*****************************
+**********SONG INFO*********
+9
+song name: If I Were a Boy
+preview song: https://p.scdn.co/mp3-preview/f12c28a584052bea2731e3589644a77165b02f7c?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I AM...SASHA FIERCE
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+10
+song name: Partition
+preview song: https://p.scdn.co/mp3-preview/8ecd5010e5a46f1c84f42bcfed50505395825d7a?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+11
+song name: Best Thing I Never Had
+preview song: https://p.scdn.co/mp3-preview/86466c6e8a9c56977255b4ed91f22a335ed5467e?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+12
+song name: Single Ladies (Put a Ring on It)
+preview song: https://p.scdn.co/mp3-preview/69c8bae97df9121ee440b23053fe20f64c204408?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I AM...SASHA FIERCE
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+13
+song name: Feeling Myself
+preview song: null
+album: The Pinkprint (Deluxe)
+artist(s): Nicki Minaj
+*****************************
+**********SONG INFO*********
+14
+song name: Me, Myself and I
+preview song: https://p.scdn.co/mp3-preview/c2fd6a04b5ef5e9ca5573c88679183aaaf9b356f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Dangerously In Love
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+15
+song name: Telephone
+preview song: null
+album: The Fame Monster
+artist(s): Lady Gaga
+*****************************
+**********SONG INFO*********
+16
+song name: Flawless Remix
+preview song: https://p.scdn.co/mp3-preview/89a75c3b0d197bc20f28ae18f586971638a4df6d?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+17
+song name: Countdown
+preview song: https://p.scdn.co/mp3-preview/ad046f8b135785f005bf84b63d657299cd6010ee?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+18
+song name: Dance for You
+preview song: https://p.scdn.co/mp3-preview/69d99b19f6557ff8cf42b354316ae883d7900347?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+19
+song name: Walk On Water (feat. Beyoncé)
+preview song: null
+album: Revival
+artist(s): Eminem
+*****************************
+**********SONG INFO*********
+0
+song name: Fuck Love (feat. Trippie Redd)
+preview song: https://p.scdn.co/mp3-preview/a6bbae399c7e05f8b3987c3e293e544690e796ce?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 17
+artist(s): XXXTENTACION
+*****************************
+**********SONG INFO*********
+1
+song name: Robbery
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+2
+song name: Love Lies (with Normani)
+preview song: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Love Lies (with Normani)
+artist(s): Khalid
+*****************************
+**********SONG INFO*********
+3
+song name: Fast
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+4
+song name: Who Do You Love (with 5 Seconds of Summer)
+preview song: https://p.scdn.co/mp3-preview/e3ef260cdfe18ac3e66226ce235843469ea69b87?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Who Do You Love (with 5 Seconds of Summer)
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+5
+song name: Empty
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+6
+song name: Make Believe
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+7
+song name: 772 Love
+preview song: https://p.scdn.co/mp3-preview/7612dc3cd3a1ce3e0392b4654563f591ba0a4edd?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 772 Love
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+8
+song name: LOVE. FEAT. ZACARI.
+preview song: null
+album: DAMN.
+artist(s): Kendrick Lamar
+*****************************
+**********SONG INFO*********
+9
+song name: Hear Me Calling
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+10
+song name: Bad At Love
+preview song: null
+album: hopeless fountain kingdom (Deluxe)
+artist(s): Halsey
+*****************************
+**********SONG INFO*********
+11
+song name: Maze
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+12
+song name: I Love It (& Lil Pump)
+preview song: null
+album: I Love It
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+13
+song name: Let Me Love You
+preview song: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Let Me Love You
+artist(s): Mario
+*****************************
+**********SONG INFO*********
+14
+song name: Love Galore (feat. Travis Scott)
+preview song: https://p.scdn.co/mp3-preview/34ee046041c05b75609bd7eec1e97b6c7cb4fe4f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Ctrl
+artist(s): SZA
+*****************************
+**********SONG INFO*********
+15
+song name: Love Someone
+preview song: https://p.scdn.co/mp3-preview/04cf58ec4116750b72117e8b2331f3b0e3ce884f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Love Someone
+artist(s): Lukas Graham
+*****************************
+**********SONG INFO*********
+16
+song name: Love Scars 3
+preview song: null
+album: A Love Letter To You 3
+artist(s): Trippie Redd
+*****************************
+**********SONG INFO*********
+17
+song name: Love Scars
+preview song: null
+album: A Love Letter To You
+artist(s): Trippie Redd
+*****************************
+**********SONG INFO*********
+18
+song name: Girls Need Love (with Drake) - Remix
+preview song: null
+album: Last Day Of Summer
+artist(s): Summer Walker
+*****************************
+**********SONG INFO*********
+19
+song name: Somebody To Love - Remastered 2011
+preview song: null
+album: A Day At The Races (Deluxe Remastered Version)
+artist(s): Queen
+*****************************
+**********SONG INFO*********
+0
+song name: Yeah! (feat. Lil Jon & Ludacris)
+preview song: https://p.scdn.co/mp3-preview/8a5e4f8dce6b1a957e235185a4677841fcaafe90?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Confessions (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+1
+song name: My Boo
+preview song: https://p.scdn.co/mp3-preview/132214d772dfacb85b3ed27bafc366b526c5da49?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Confessions (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+2
+song name: U Remind Me
+preview song: https://p.scdn.co/mp3-preview/b94b8fba4179746fbb1f23dd124d1aa076f50131?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 8701
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+3
+song name: DJ Got Us Fallin' In Love (feat. Pitbull)
+preview song: https://p.scdn.co/mp3-preview/0689d89e44329ad113284715e599b39bd4fc166d?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Raymond v Raymond (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+4
+song name: U Got It Bad
+preview song: https://p.scdn.co/mp3-preview/d8ed27f510de0d7ec0f9ba4e4b8bd8d06f26359f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 8701
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+5
+song name: I Don't Mind (feat. Juicy J)
+preview song: https://p.scdn.co/mp3-preview/760726e31709bd5ca5935b8ca243352e697624fc?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I Don't Mind (feat. Juicy J)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+6
+song name: OMG (feat. will.i.am)
+preview song: https://p.scdn.co/mp3-preview/234ee33a94a9570edb638638576bc0015ce797e0?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Raymond v Raymond (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+7
+song name: You Make Me Wanna...
+preview song: https://p.scdn.co/mp3-preview/eb361e93c1d270881719c6911214a03b4be80371?cid=36f978b125124f6baf769bc0ab33f3dd
+album: My Way
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+8
+song name: Confessions Part II - Confessions Special Edition Version
+preview song: https://p.scdn.co/mp3-preview/16b5e6467b3df41f26638e4ae42beb1bbbc64e57?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Confessions (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+9
+song name: Bad Girl
+preview song: https://p.scdn.co/mp3-preview/8f7dde2bca9b2655a03bc4a229598e67aabc2821?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Confessions (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+10
+song name: Love in This Club (feat. Young Jeezy)
+preview song: https://p.scdn.co/mp3-preview/69611cd7895a738d0516704d3ff67bf2889a4354?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Here I Stand
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+11
+song name: Burn - Confession Special Edition Version
+preview song: https://p.scdn.co/mp3-preview/8911f0ccc6b240ddffaf13244afacfbf099fb4ba?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Confessions (Expanded Edition)
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+12
+song name: Nice & Slow
+preview song: https://p.scdn.co/mp3-preview/f5f5dbedc890f8b2a43543da8bd17257b28e88aa?cid=36f978b125124f6baf769bc0ab33f3dd
+album: My Way
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+13
+song name: New Flame
+preview song: https://p.scdn.co/mp3-preview/5bbbd1aee959a8502c752d7c46e1e661232c1b46?cid=36f978b125124f6baf769bc0ab33f3dd
+album: X (Deluxe Version)
+artist(s): Chris Brown
+*****************************
+**********SONG INFO*********
+14
+song name: Without You (feat. Usher)
+preview song: https://p.scdn.co/mp3-preview/53e072ec1b741fd584c4688bfd1657a60c56a803?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Nothing But The Beat
+artist(s): David Guetta
+*****************************
+**********SONG INFO*********
+15
+song name: Party
+preview song: https://p.scdn.co/mp3-preview/968fd6f0e00bba0f417170f6a222f04a765b3b43?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Party
+artist(s): Chris Brown
+*****************************
+**********SONG INFO*********
+16
+song name: Body Language (feat. Usher & Tinashe)
+preview song: https://p.scdn.co/mp3-preview/5c2cf33ba28d756375043d8662a4580aadca7530?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Full Speed (Expanded Edition)
+artist(s): Kid Ink
+*****************************
+**********SONG INFO*********
+17
+song name: No Limit (feat. Young Thug)
+preview song: https://p.scdn.co/mp3-preview/0a5803c444446d458c6e9fd0946ce4b7c7cfebf9?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Hard II Love
+artist(s): Usher
+*****************************
+**********SONG INFO*********
+18
+song name: Promise
+preview song: https://p.scdn.co/mp3-preview/d07256cfad5fd60de1c508bff1ce1e5cfec574fa?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Fórmula Vol. 1 (Deluxe Edition)
+artist(s): Romeo Santos
+*****************************
+**********SONG INFO*********
+19
+song name: Climax
+preview song: https://p.scdn.co/mp3-preview/f77564679ef24698eef5c073d35b6ba059a14aad?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Looking 4 Myself (Expanded Edition)
+artist(s): Usher
+*****************************
+**********MOVIE INFO*********
+Title: NCIS
+Release Year: 2003–
+IMDB Rating: 7.8
+**********MOVIE INFO*********
+Title: NCIS
+Release Year: 2003–
+IMDB Rating: 7.8
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********MOVIE INFO*********
+Title: FBI
+Release Year: 2018–
+IMDB Rating: 6.4
+**********SONG INFO*********
+0
+song name: Halo
+preview song: https://p.scdn.co/mp3-preview/3c97985f3736fab6d4abcd2067f346a9b30955fa?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I AM...SASHA FIERCE
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+1
+song name: Crazy In Love
+preview song: https://p.scdn.co/mp3-preview/ce8ace0ec425840416be78db07cf50dd331eed4f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Dangerously In Love
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+2
+song name: Perfect Duet (Ed Sheeran & Beyoncé)
+preview song: https://p.scdn.co/mp3-preview/65ee4bf5cfdc8f2cd9cc1742f9d4b2ba10c83b2f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Perfect Duet (Ed Sheeran & Beyoncé)
+artist(s): Ed Sheeran
+*****************************
+**********SONG INFO*********
+3
+song name: Telephone
+preview song: null
+album: Women To The Front
+artist(s): Lady Gaga
+*****************************
+**********SONG INFO*********
+4
+song name: Love On Top
+preview song: https://p.scdn.co/mp3-preview/9a7675cc7f71c524af1397cf1675b61a8fbc74ed?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+5
+song name: Run the World (Girls)
+preview song: https://p.scdn.co/mp3-preview/c5e90d8d93467fc4aeda29c2cbefaa494081232a?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+6
+song name: Irreplaceable
+preview song: https://p.scdn.co/mp3-preview/b1cd9ecf3b5108363846f497897b5bcbec44343a?cid=36f978b125124f6baf769bc0ab33f3dd
+album: B'Day Deluxe Edition
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+7
+song name: 7/11
+preview song: https://p.scdn.co/mp3-preview/c17eaf47f9624029dadcd7672b7896c84923e28c?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+8
+song name: Drunk in Love
+preview song: https://p.scdn.co/mp3-preview/7052c45ae9298c38fdbd1b45bec7fc5f554fafa0?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+9
+song name: Mi Gente (feat. Beyoncé)
+preview song: null
+album: Mi Gente (feat. Beyoncé)
+artist(s): J Balvin
+*****************************
+**********SONG INFO*********
+10
+song name: If I Were a Boy
+preview song: https://p.scdn.co/mp3-preview/f12c28a584052bea2731e3589644a77165b02f7c?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I AM...SASHA FIERCE
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+11
+song name: Best Thing I Never Had
+preview song: https://p.scdn.co/mp3-preview/86466c6e8a9c56977255b4ed91f22a335ed5467e?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+12
+song name: Partition
+preview song: https://p.scdn.co/mp3-preview/8ecd5010e5a46f1c84f42bcfed50505395825d7a?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+13
+song name: Single Ladies (Put a Ring on It)
+preview song: https://p.scdn.co/mp3-preview/69c8bae97df9121ee440b23053fe20f64c204408?cid=36f978b125124f6baf769bc0ab33f3dd
+album: I AM...SASHA FIERCE
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+14
+song name: Me, Myself and I
+preview song: https://p.scdn.co/mp3-preview/c2fd6a04b5ef5e9ca5573c88679183aaaf9b356f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Dangerously In Love
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+15
+song name: Feeling Myself
+preview song: null
+album: The Pinkprint (Deluxe)
+artist(s): Nicki Minaj
+*****************************
+**********SONG INFO*********
+16
+song name: Telephone
+preview song: null
+album: The Fame Monster
+artist(s): Lady Gaga
+*****************************
+**********SONG INFO*********
+17
+song name: Flawless Remix
+preview song: https://p.scdn.co/mp3-preview/89a75c3b0d197bc20f28ae18f586971638a4df6d?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+18
+song name: Countdown
+preview song: https://p.scdn.co/mp3-preview/ad046f8b135785f005bf84b63d657299cd6010ee?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+19
+song name: Dance for You
+preview song: https://p.scdn.co/mp3-preview/69d99b19f6557ff8cf42b354316ae883d7900347?cid=36f978b125124f6baf769bc0ab33f3dd
+album: 4
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+0
+song name: Umbrella
+preview song: null
+album: Good Girl Gone Bad: Reloaded
+artist(s): Rihanna
+*****************************
+**********SONG INFO*********
+1
+song name: Ni**as In Paris
+preview song: null
+album: Top Five (Music From And Inspired By The Motion Picture)
+artist(s): JAY Z
+*****************************
+**********SONG INFO*********
+2
+song name: What's Free (feat. Rick Ross & Jay Z)
+preview song: https://p.scdn.co/mp3-preview/552d71faeeee7b50bed81dd3b0e9a9644dcdfca0?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Championships
+artist(s): Meek Mill
+*****************************
+**********SONG INFO*********
+3
+song name: Crazy In Love
+preview song: https://p.scdn.co/mp3-preview/ce8ace0ec425840416be78db07cf50dd331eed4f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Dangerously In Love
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+4
+song name: Talk Up (feat. Jay-Z)
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+5
+song name: Drunk in Love
+preview song: https://p.scdn.co/mp3-preview/7052c45ae9298c38fdbd1b45bec7fc5f554fafa0?cid=36f978b125124f6baf769bc0ab33f3dd
+album: BEYONCÉ [Platinum Edition]
+artist(s): Beyoncé
+*****************************
+**********SONG INFO*********
+6
+song name: Biking
+preview song: https://p.scdn.co/mp3-preview/35a608d4813f00f58d1c99b018531184d0c1e242?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Biking
+artist(s): Frank Ocean
+*****************************
+**********SONG INFO*********
+7
+song name: Monster
+preview song: null
+album: My Beautiful Dark Twisted Fantasy
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+8
+song name: Numb / Encore
+preview song: https://p.scdn.co/mp3-preview/0db4038760aa7b37213a9cb7497aaa808cab960f?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Numb/Encore: MTV Ultimate Mash-Ups Presents Collision Course
+artist(s): JAY Z
+*****************************
+**********SONG INFO*********
+9
+song name: Frontin' (feat. Jay-Z) - Club Mix
+preview song: https://p.scdn.co/mp3-preview/7b445bfd4eb9600d10bb0995d42d3d225e54ee37?cid=36f978b125124f6baf769bc0ab33f3dd
+album: The Neptunes Present... Clones
+artist(s): Pharrell Williams
+*****************************
+**********SONG INFO*********
+10
+song name: Umbrella
+preview song: null
+album: Good Girl Gone Bad
+artist(s): Rihanna
+*****************************
+**********SONG INFO*********
+11
+song name: Clique
+preview song: null
+album: Kanye West Presents Good Music Cruel Summer
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+12
+song name: Suit & Tie
+preview song: https://p.scdn.co/mp3-preview/2744b13afca5b0b22439b7d49d3505364c5735d1?cid=36f978b125124f6baf769bc0ab33f3dd
+album: The 20/20 Experience (Deluxe Version)
+artist(s): Justin Timberlake
+*****************************
+**********SONG INFO*********
+13
+song name: Numb / Encore
+preview song: https://p.scdn.co/mp3-preview/d15a736b153cbfcb6e9067ed24c452e05c5cf231?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Collision Course (Deluxe Version)
+artist(s): JAY Z
+*****************************
+**********SONG INFO*********
+14
+song name: Shining (feat. Beyoncé & Jay-Z)
+preview song: https://p.scdn.co/mp3-preview/4bacccc2d1afd14723d954f6141acbaedc03e7a3?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Grateful
+artist(s): DJ Khaled
+*****************************
+**********SONG INFO*********
+15
+song name: Pound Cake / Paris Morton Music 2
+preview song: null
+album: Nothing Was The Same (Deluxe)
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+16
+song name: Bitch, Don’t Kill My Vibe - Remix
+preview song: null
+album: good kid, m.A.A.d city (Deluxe)
+artist(s): Kendrick Lamar
+*****************************
+**********SONG INFO*********
+17
+song name: Renegade
+preview song: null
+album: Curtain Call
+artist(s): JAY Z
+*****************************
+**********SONG INFO*********
+18
+song name: All The Way Up (Remix)
+preview song: https://p.scdn.co/mp3-preview/f07e16151911f35b9eb03a64c0cec0f1ee1a1263?cid=36f978b125124f6baf769bc0ab33f3dd
+album: All The Way Up (Remix) (feat. French Montana & Infared) - Single
+artist(s): Fat Joe
+*****************************
+**********SONG INFO*********
+19
+song name: Money Ain't a Thang
+preview song: https://p.scdn.co/mp3-preview/ebe800f26a02af4c0ac85a98b8869636cc5939d3?cid=36f978b125124f6baf769bc0ab33f3dd
+album: Life In 1472 (The Original Soundtrack)
+artist(s): Jermaine Dupri
+*****************************
+**********MOVIE INFO*********
+Title: NCIS
+Release Year: 2003–
+IMDB Rating: 7.8
